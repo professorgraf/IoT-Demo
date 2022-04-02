@@ -1,3 +1,6 @@
+
+#Setup the MQTT broker and Node-Red server
+
 This folder contains a link to the image-file that can be downloaded and written onto a SD card for direct start.
 
 -- if not present yet, it will follow, please be patient --
